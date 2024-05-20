@@ -1,0 +1,8 @@
+name: WarpPlugin
+version: '${project.version}'
+main: com.lucas.warpplugin.WarpPlugin
+api-version: '1.16'
+commands:
+  warp:
+
+
